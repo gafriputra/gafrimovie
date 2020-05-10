@@ -1,0 +1,2 @@
+rootProject.name='GAFRI MOVIE'
+include ':app'

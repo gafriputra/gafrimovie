@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "207798550908",
+    "firebase_url": "https://gafri-movie.firebaseio.com",
+    "project_id": "gafri-movie",
+    "storage_bucket": "gafri-movie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207798550908:android:1b4fa83ab8f7a396e824f9",
+        "android_client_info": {
+          "package_name": "com.gafriputra.gafrimovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207798550908-43nsts9nn0487dve275u44d0tj3fmahr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gafriputra.gafrimovie",
+            "certificate_hash": "21529173b804ce242e7ee7bcca7a4028c636eae5"
+          }
+        },
+        {
+          "client_id": "207798550908-8cjp0jki36fkv3vfsckk7ifirvmdqmf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwIqh6Sru7LHjQsS9FN5iAItTTIqNMST8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207798550908-8cjp0jki36fkv3vfsckk7ifirvmdqmf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
