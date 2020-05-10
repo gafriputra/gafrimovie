@@ -33,6 +33,9 @@ class PilihBangkuActivity : AppCompatActivity() {
                 total -=1
                 belitiket(total)
 
+                // delete data
+                dataList.remove(Checkout("A3", "70000"))
+
             } else {
                 a3.setImageResource(R.drawable.ic_rectangle_selected)
                 statusA3 = true
@@ -50,6 +53,9 @@ class PilihBangkuActivity : AppCompatActivity() {
                 statusA4 = false
                 total -=1
                 belitiket(total)
+
+                // delete data
+                dataList.remove(Checkout("A4", "70000"))
             } else {
                 a4.setImageResource(R.drawable.ic_rectangle_selected)
                 statusA4 = true
